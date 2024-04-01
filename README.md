@@ -1,4 +1,5 @@
-# myweb
+# 2024년 04월 01일 실습 내용 - Github을 통해 홈페이지 만들기.
+
 # My HomePage MY Profeil
 
 나의 정보를 말해주는 홈페이지이다.
